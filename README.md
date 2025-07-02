@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue dans mon répertoire de projet, c'est ici que je publie l'ensemble de mes projets effectués au cours de mes années universitaires 👋
 
 <!--
 **Slowers34/Slowers34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
